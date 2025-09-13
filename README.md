@@ -147,9 +147,9 @@ Contributions are welcome! Here's how you can help:
 
 ## 📧 Contact
 
-**Your Name** - [your.email@example.com](harshit847600@gmail.com)
+**Your Name** - [harshit847600@gmail.com](harshit847600@gmail.com)
 
-**Project Link**: [https://github.com/your-username/durga-puja-website](https://github.com/Harshit-rai001/Web-site-based-on-durga-pooja.git)
+**Project Link**: [https://github.com/Harshit-rai001/Web-site-based-on-durga-pooja.git](https://github.com/Harshit-rai001/Web-site-based-on-durga-pooja.git)
 
 ---
 
