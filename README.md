@@ -11,8 +11,10 @@ A beautiful, responsive website celebrating the sacred Hindu festival of Durga P
 ### Home View
 ![Home Screenshot](1.png)
 
+
 ### About View
 ![About Screenshot](2.png)
+
 
 ### Contact View
 ![About Screenshot](3.png)
@@ -45,8 +47,7 @@ A beautiful, responsive website celebrating the sacred Hindu festival of Durga P
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Modern styling with animations and responsive design
 - **JavaScript** - Interactive functionality and smooth scrolling
-- **CSS Grid & Flexbox** - Responsive layout systems
-- **CSS Animations** - Smooth transitions and effects
+
 
 ## 📁 Project Structure
 
@@ -60,12 +61,6 @@ durga-puja-website/
 └── 1,2,3.png/        # Website screenshots
   
 ```
-
-## 🚀 Quick Start
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML/CSS/JavaScript (for customization)
 
 ### Installation
 
@@ -116,42 +111,6 @@ durga-puja-website/
 - **Social Media Links** placeholder
 - **Interactive Elements** with hover effects
 
-## 🎨 Customization Guide
-
-### Colors
-The website uses a traditional festival color palette:
-```css
---primary-red: #8B0000;
---accent-orange: #FF6B35;
---gold: #FFD700;
---light-cream: #FFF8E1;
-```
-
-### Fonts
-- Primary Font: Georgia (serif) for traditional feel
-- Fallback: System serif fonts
-
-### Images
-- Replace the SVG illustration with your own Durga Ma image
-- Update the path in `styles.css`:
-```css
-.durga-image {
-    background: url('path/to/your/image.jpg') center/cover;
-}
-```
-
-## 📱 Responsive Breakpoints
-
-```css
-/* Mobile Devices */
-@media (max-width: 480px) { ... }
-
-/* Tablets */
-@media (max-width: 768px) { ... }
-
-/* Desktop */
-@media (min-width: 1024px) { ... }
-```
 
 ## 🤝 Contributing
 
@@ -179,14 +138,6 @@ Contributions are welcome! Here's how you can help:
 - 🖼️ Create image gallery section
 - 🎪 Add event management features
 
-## 🐛 Known Issues
-
-- [ ] Safari iOS scroll animation performance
-- [ ] IE11 CSS Grid compatibility (if needed)
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -196,9 +147,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
+**Your Name** - [your.email@example.com](harshit847600@gmail.com)
 
-**Project Link**: [https://github.com/your-username/durga-puja-website](https://github.com/your-username/durga-puja-website)
+**Project Link**: [https://github.com/your-username/durga-puja-website](https://github.com/Harshit-rai001/Web-site-based-on-durga-pooja.git)
 
 ---
 
@@ -214,7 +165,7 @@ Give a ⭐️ if this project helped you celebrate Durga Puja digitally!
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/durga-puja-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/durga-puja-website?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/durga-puja-website)
-![GitHub license](https://img.shields.io/github/license/your-username/durga-puja-website)
+![GitHub stars](https://img.shields.io/github/stars/Harshit-rai001/Web-site-based-on-durga-pooja?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Harshit-rai001/Web-site-based-on-durga-pooja?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Harshit-rai001/Web-site-based-on-durga-pooja)
+![GitHub license](https://img.shields.io/github/license/Harshit-rai001/Web-site-based-on-durga-pooja)
